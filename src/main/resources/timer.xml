@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timers>
+	<timer name="1" enable="true" start-on-boot="true" type="com.zjc.quartz_with_spring.SampleJob" 
+	cron="0 58 8-20 * * ?" />
+<!-- 	<timer name="2" enable="true" start-on-boot="true" type="com.zjc.quartz_with_spring.SampleJob"  -->
+<!-- 	cron="0/2 * 8-20 * * ?" /> -->
+</timers>
